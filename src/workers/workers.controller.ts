@@ -27,6 +27,6 @@ export class WorkersController {
 
   @Delete()
   deleteWorker(@Body() deleteWorkerDto: DeleteWorkerDto) {
-    return this.workersService.removeWorker(DeleteWorkerDto);
+    return this.workersService.removeWorker(deleteWorkerDto);
   }
 }
