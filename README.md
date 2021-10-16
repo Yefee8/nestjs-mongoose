@@ -7,3 +7,5 @@
 ### How to use?
 
 #### npm install --save @nestjs/mongoose mongoose
+
+## Special thanks: Forcex(github.com/forcex45), Fishuke(https://github.com/fishuke)
