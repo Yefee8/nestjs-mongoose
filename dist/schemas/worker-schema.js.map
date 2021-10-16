@@ -1,0 +1,1 @@
+{"version":3,"file":"worker-schema.js","sourceRoot":"","sources":["../../src/schemas/worker-schema.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,+CAA+D;AAM/D,IAAa,MAAM,GAAnB,MAAa,MAAM;CAMlB,CAAA;AAJC;IADC,IAAA,eAAI,GAAE;;oCACM;AAGb;IADC,IAAA,eAAI,GAAE;;oCACM;AALF,MAAM;IADlB,IAAA,iBAAM,GAAE;GACI,MAAM,CAMlB;AANY,wBAAM;AAQN,QAAA,YAAY,GAAG,wBAAa,CAAC,cAAc,CAAC,MAAM,CAAC,CAAA"}
