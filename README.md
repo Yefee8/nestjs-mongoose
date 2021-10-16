@@ -8,4 +8,4 @@
 
 #### npm install --save @nestjs/mongoose mongoose
 
-## Special thanks: Forcex(github.com/forcex45), Fishuke(https://github.com/fishuke)
+## Special thanks: Forcex(https://github.com/forcex45), Fishuke(https://github.com/fishuke)
