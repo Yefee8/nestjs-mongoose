@@ -1,12 +1,12 @@
-# Nest.js and Mongoose no ui project!
+# Nest.js with Mongoose project!
 
-# ⚠️ This project doesn't have ui, you should be use postman! ⚠️
+### ⚠️ This project doesn't have ui, you should be use postman! ⚠️
 
-## Delete, Put, Get and Post Database methods on mongoose and nest.js.
 
-### How to use?
+### How to install?
 
-#### npm install --save @nestjs/mongoose mongoose
+### First you should be clone project.
+### npm install @nestjs/mongoose mongoose
 
 # https://github.com/Yefee8/nestjs-mongoose/tree/main/src/workers Important
 
