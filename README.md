@@ -1,12 +1,11 @@
-# Nest.js with Mongoose project!
-
-### ⚠️ This project doesn't have ui, you should be use postman! ⚠️
-
+# Rest API for mongoose(coded with nest.js).
 
 ### How to install?
 
-### First you should be clone project.
-### npm install @nestjs/mongoose mongoose
+```
+// First you should be clone project.(git clone https://github.com/Yefee8/nestjs-mongoose.git)
+npm install
+```
 
 # https://github.com/Yefee8/nestjs-mongoose/tree/main/src/workers Important
 
