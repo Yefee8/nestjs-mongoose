@@ -1,12 +1,10 @@
-# Rest API for mongoose(coded with nest.js).
+# Rest API for mongoose(made with nest.js)
 
 ### How to install?
 
 ```
-// First you should be clone project.(git clone https://github.com/Yefee8/nestjs-mongoose.git)
-npm install
+git clone https://github.com/Yefee8/nestjs-mongoose.git
+yarn install // npm install
 ```
-
-# https://github.com/Yefee8/nestjs-mongoose/tree/main/src/workers Important
 
 ## Special thanks: [Forcex](https://github.com/forcex45), [Fishuke](https://github.com/fishuke)
